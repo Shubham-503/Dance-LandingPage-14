@@ -23,5 +23,5 @@
 
 - # [Live Link](https://dance-landingpage-14.netlify.app/)
 
-![Screenshots](/asset/thumbnail.PNG)
+![Screenshots](/asset/thumbnail.png)
 ![Screenshots](/asset/thumbnail3.PNG)
